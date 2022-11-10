@@ -3,8 +3,8 @@ import React from 'react';
 
 export default function HelloWorld(props) {
   return (
-    <div className='md:container mx-auto'>
-      <h1 className="text-3xl font-bold underline md:">Hello, World!</h1>
+    <div className='container mx-auto'>
+      <h4 className="text-white text-center">The Check-in</h4>
       {/* <LargeButton /> */}
     </div>
   );

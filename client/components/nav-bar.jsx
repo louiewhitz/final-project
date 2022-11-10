@@ -33,7 +33,7 @@ export default function Header(props) {
           </div>
           <div className='row'>
             <div className='col'>
-              <div className='timer round bg-light rounded-circle text-center'><span className='text-center'>0</span></div>
+              <div className='timer bg-light rounded-circle d-inline p-2'>0</div>
             </div>
           </div>
         </div>

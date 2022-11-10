@@ -3,7 +3,7 @@ import HelloWorld from '../components/hello-world';
 
 export default function Home(props) {
   return (
-    <div className="container mx:auto">
+    <div className="container">
       <HelloWorld />
     </div>
   );
